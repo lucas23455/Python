@@ -11,7 +11,7 @@ Lecionado pelo prof. Gustavo Guanabara e hospedado no site do Curso em Vídeo (v
 
 #### Conhecendo a linguagem
 
-- Exercício Python #01 - [Deixando tudo pronto](https://github.com/guiemi-learning-center/curso-python-gustavo-guanabara/blob/master/mundo_1/Aula_1_a_5_Conhecendo_a_Linguagem/desafio_1.py)
+- Exercício Python #01 - [Deixando tudo pronto](https://github.com/lucas23455/Python/blob/main/Mundo%201/001.py)
 - Exercício Python #02 - [Respondendo ao usuário](https://github.com/guiemi-learning-center/curso-python-gustavo-guanabara/blob/master/mundo_1/Aula_1_a_5_Conhecendo_a_Linguagem/desafio_2.py)
 
 #### Primeiros passos

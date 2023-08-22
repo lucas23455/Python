@@ -105,6 +105,9 @@ Lecionado pelo prof. Gustavo Guanabara e hospedado no site do Curso em Vídeo (v
 - Exercício Python #066 - [Vários números com flag](https://github.com/lucas23455/Python/blob/main/Mundo%202/066.py)
 - Exercício Python #067 - [Tabuada v3.0](https://github.com/lucas23455/Python/blob/main/Mundo%202/067.py)
 - Exercício Python #068 - [Jogo do par ou ímpar](https://github.com/lucas23455/Python/blob/main/Mundo%202/068.py)
+- Exercício Python #069 - [Análise de dados do grupo](https://github.com/lucas23455/Python/blob/main/Mundo%202/069.py)
+- Exercício Python #070 - [Estatística de produtos](https://github.com/lucas23455/Python/blob/main/Mundo%202/070.py)
+- Exercício Python #071.2 - [Simulador de caixa eletrônico](https://github.com/lucas23455/Python/blob/main/Mundo%202/071.py)
 
 ### Mundo 3: estruturas compostas
 

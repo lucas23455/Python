@@ -35,12 +35,12 @@ Lecionado pelo prof. Gustavo Guanabara e hospedado no site do Curso em Vídeo (v
 
 #### Módulos
 
-- Exercício Python #016 - [Quebrando um número](https://github.com/guiemi-learning-center/curso-python-gustavo-guanabara/blob/master/mundo_1/Aula_8_Modulos/desafio_16.py)
-- Exercício Python #017 - [Catetos e hipotenusa](https://github.com/guiemi-learning-center/curso-python-gustavo-guanabara/blob/master/mundo_1/Aula_8_Modulos/desafio_17.py)
-- Exercício Python #018 - [Seno, cosseno e tangente](https://github.com/guiemi-learning-center/curso-python-gustavo-guanabara/blob/master/mundo_1/Aula_8_Modulos/desafio_18.py)
-- Exercício Python #019 - [Sorteando um item na lista](https://github.com/guiemi-learning-center/curso-python-gustavo-guanabara/blob/master/mundo_1/Aula_8_Modulos/desafio_19.py)
-- Exercício Python #020 - [Sorteando uma ordem na lista](https://github.com/guiemi-learning-center/curso-python-gustavo-guanabara/blob/master/mundo_1/Aula_8_Modulos/desafio_20.py)
-- Exercício Python #021 - [Tocando um MP3](https://github.com/guiemi-learning-center/curso-python-gustavo-guanabara/blob/master/mundo_1/Aula_8_Modulos/desafio_21.py)
+- Exercício Python #016 - [Quebrando um número](https://github.com/lucas23455/Python/blob/main/Mundo%201/016.py)
+- Exercício Python #017 - [Catetos e hipotenusa](https://github.com/lucas23455/Python/blob/main/Mundo%201/017.py)
+- Exercício Python #018 - [Seno, cosseno e tangente](https://github.com/lucas23455/Python/blob/main/Mundo%201/018.py)
+- Exercício Python #019 - [Sorteando um item na lista](https://github.com/lucas23455/Python/blob/main/Mundo%201/019.py)
+- Exercício Python #020 - [Sorteando uma ordem na lista](https://github.com/lucas23455/Python/blob/main/Mundo%201/020.py)
+- Exercício Python #021 - [Tocando um MP3](https://github.com/lucas23455/Python/blob/main/Mundo%201/021.py)
 
 #### Strings
 

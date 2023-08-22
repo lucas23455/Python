@@ -16,8 +16,8 @@ Lecionado pelo prof. Gustavo Guanabara e hospedado no site do Curso em Vídeo (v
 
 #### Primeiros passos
 
-- Exercício Python #03 - [Somando dois números](https://github.com/guiemi-learning-center/curso-python-gustavo-guanabara/blob/master/mundo_1/Aula_1_a_5_Conhecendo_a_Linguagem/desafio_3.py)
-- Exercício Python #04 - [Dissecando uma variável](https://github.com/guiemi-learning-center/curso-python-gustavo-guanabara/blob/master/mundo_1/Aula_6_Primeiros_Passos/desafio_4.py)
+- Exercício Python #03 - [Somando dois números](https://github.com/lucas23455/Python/blob/main/Mundo%201/004.py)
+- Exercício Python #04 - [Dissecando uma variável](https://github.com/lucas23455/Python/blob/main/Mundo%201/005.py)
 
 #### Cálculos e operações
 

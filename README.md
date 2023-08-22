@@ -27,11 +27,11 @@ Lecionado pelo prof. Gustavo Guanabara e hospedado no site do Curso em Vídeo (v
 - Exercício Python #08 - [Conversor de medidas](https://github.com/lucas23455/Python/blob/main/Mundo%201/008.py)
 - Exercício Python #09 - [Tabuada](https://github.com/lucas23455/Python/blob/main/Mundo%201/009.py)
 - Exercício Python #010 - [Conversor de moedas](https://github.com/lucas23455/Python/blob/main/Mundo%201/010.py)
-- Exercício Python #011 - [Pintando parede](https://github.com/guiemi-learning-center/curso-python-gustavo-guanabara/blob/master/mundo_1/Aula_7_Calculos_e_Operacoes/desafio_11.py)
-- Exercício Python #012 - [Calculando descontos](https://github.com/guiemi-learning-center/curso-python-gustavo-guanabara/blob/master/mundo_1/Aula_7_Calculos_e_Operacoes/desafio_12.py)
-- Exercício Python #013 - [Reajuste salarial](https://github.com/guiemi-learning-center/curso-python-gustavo-guanabara/blob/master/mundo_1/Aula_7_Calculos_e_Operacoes/desafio_13.py)
-- Exercício Python #014 - [Conversor de temperaturas](https://github.com/guiemi-learning-center/curso-python-gustavo-guanabara/blob/master/mundo_1/Aula_7_Calculos_e_Operacoes/desafio_14.py)
-- Exercício Python #015 - [Aluguel de carros](https://github.com/guiemi-learning-center/curso-python-gustavo-guanabara/blob/master/mundo_1/Aula_7_Calculos_e_Operacoes/desafio_15.py)
+- Exercício Python #011 - [Pintando parede](https://github.com/lucas23455/Python/blob/main/Mundo%201/011.py)
+- Exercício Python #012 - [Calculando descontos](https://github.com/lucas23455/Python/blob/main/Mundo%201/012.py)
+- Exercício Python #013 - [Reajuste salarial](https://github.com/lucas23455/Python/blob/main/Mundo%201/013.py)
+- Exercício Python #014 - [Conversor de temperaturas](https://github.com/lucas23455/Python/blob/main/Mundo%201/014.py)
+- Exercício Python #015 - [Aluguel de carros](https://github.com/lucas23455/Python/blob/main/Mundo%201/015.py)
 
 #### Módulos
 

@@ -16,13 +16,13 @@ Lecionado pelo prof. Gustavo Guanabara e hospedado no site do Curso em Vídeo (v
 
 #### Primeiros passos
 
-- Exercício Python #03 - [Somando dois números](https://github.com/lucas23455/Python/blob/main/Mundo%201/004.py)
-- Exercício Python #04 - [Dissecando uma variável](https://github.com/lucas23455/Python/blob/main/Mundo%201/005.py)
+- Exercício Python #03 - [Somando dois números](https://github.com/lucas23455/Python/blob/main/Mundo%201/003.py)
+- Exercício Python #04 - [Dissecando uma variável](https://github.com/lucas23455/Python/blob/main/Mundo%201/004.py)
 
 #### Cálculos e operações
 
-- Exercício Python #05 - [Antecessor e sucessor](https://github.com/guiemi-learning-center/curso-python-gustavo-guanabara/blob/master/mundo_1/Aula_7_Calculos_e_Operacoes/desafio_5.py)
-- Exercício Python #06 - [Dobro, triplo e raiz quadrada](https://github.com/guiemi-learning-center/curso-python-gustavo-guanabara/blob/master/mundo_1/Aula_7_Calculos_e_Operacoes/desafio_6.py)
+- Exercício Python #05 - [Antecessor e sucessor](https://github.com/lucas23455/Python/blob/main/Mundo%201/005.py)
+- Exercício Python #06 - [Dobro, triplo e raiz quadrada](https://github.com/lucas23455/Python/blob/main/Mundo%201/006.py)
 - Exercício Python #07 - [Média aritmética](https://github.com/guiemi-learning-center/curso-python-gustavo-guanabara/blob/master/mundo_1/Aula_7_Calculos_e_Operacoes/desafio_7.py)
 - Exercício Python #08 - [Conversor de medidas](https://github.com/guiemi-learning-center/curso-python-gustavo-guanabara/blob/master/mundo_1/Aula_7_Calculos_e_Operacoes/desafio_8.py)
 - Exercício Python #09 - [Tabuada](https://github.com/guiemi-learning-center/curso-python-gustavo-guanabara/blob/master/mundo_1/Aula_7_Calculos_e_Operacoes/desafio_9.py)

@@ -66,7 +66,7 @@ Lecionado pelo prof. Gustavo Guanabara e hospedado no site do Curso em Vídeo (v
 
 #### Condições em Python (if..elif)
 
-- Exercício Python #036 - [Aprovando empréstimo](https://github.com/lucas23455/Python/blob/main/Mundo%201/036.py)
+- Exercício Python #036 - [Aprovando empréstimo](https://github.com/lucas23455/Python/blob/main/Mundo%202/036.py)
 - Exercício Python #037 - [Conversor de bases numéricas](https://github.com/lucas23455/Python/blob/main/Mundo%201/037.py)
 - Exercício Python #038 - [Comparando números](https://github.com/lucas23455/Python/blob/main/Mundo%201/038.py)
 - Exercício Python #039 - [Alistamento militar](https://github.com/lucas23455/Python/blob/main/Mundo%201/039.py)

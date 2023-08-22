@@ -95,16 +95,16 @@ Lecionado pelo prof. Gustavo Guanabara e hospedado no site do Curso em Vídeo (v
 
 - Exercício Python #057 - [Validação de dados](https://github.com/lucas23455/Python/blob/main/Mundo%202/057.py)
 - Exercício Python #058 - [Jogo da adivinhação v2.0](https://github.com/lucas23455/Python/blob/main/Mundo%202/058.py)
-- Exercício Python #059 - [Criando um menu de opções](https://github.com/lucas23455/Python/blob/main/Mundo%201/059.py)
-- Exercício Python #060 - [Cálculo do fatorial](https://github.com/lucas23455/Python/blob/main/Mundo%201/060.py)
-- Exercício Python #061 - [Progressão aritmética v2.0](https://github.com/lucas23455/Python/blob/main/Mundo%201/061.py)
-- Exercício Python #062 - [Super Progressão Aritmética v3.0](https://github.com/lucas23455/Python/blob/main/Mundo%201/062.py)
-- Exercício Python #063 - [Sequência de Fibonacci v1.0](https://github.com/lucas23455/Python/blob/main/Mundo%201/063.py)
-- Exercício Python #064 - [Tratando vários valores v1.0](https://github.com/lucas23455/Python/blob/main/Mundo%201/064.py)
-- Exercício Python #065 - [Maior e menor valores](https://github.com/lucas23455/Python/blob/main/Mundo%201/065.py)
-- Exercício Python #066 - [Vários números com flag](https://github.com/lucas23455/Python/blob/main/Mundo%201/066.py)
-- Exercício Python #067 - [Tabuada v3.0](https://github.com/lucas23455/Python/blob/main/Mundo%201/067.py)
-- Exercício Python #068 - [Jogo do par ou ímpar](https://github.com/lucas23455/Python/blob/main/Mundo%201/068.py)
+- Exercício Python #059 - [Criando um menu de opções](https://github.com/lucas23455/Python/blob/main/Mundo%202/059.py)
+- Exercício Python #060 - [Cálculo do fatorial](https://github.com/lucas23455/Python/blob/main/Mundo%202/060.py)
+- Exercício Python #061 - [Progressão aritmética v2.0](https://github.com/lucas23455/Python/blob/main/Mundo%202/061.py)
+- Exercício Python #062 - [Super Progressão Aritmética v3.0](https://github.com/lucas23455/Python/blob/main/Mundo%202/062.py)
+- Exercício Python #063 - [Sequência de Fibonacci v1.0](https://github.com/lucas23455/Python/blob/main/Mundo%202/063.py)
+- Exercício Python #064 - [Tratando vários valores v1.0](https://github.com/lucas23455/Python/blob/main/Mundo%202/064.py)
+- Exercício Python #065 - [Maior e menor valores](https://github.com/lucas23455/Python/blob/main/Mundo%202/065.py)
+- Exercício Python #066 - [Vários números com flag](https://github.com/lucas23455/Python/blob/main/Mundo%202/066.py)
+- Exercício Python #067 - [Tabuada v3.0](https://github.com/lucas23455/Python/blob/main/Mundo%202/067.py)
+- Exercício Python #068 - [Jogo do par ou ímpar](https://github.com/lucas23455/Python/blob/main/Mundo%202/068.py)
 
 ### Mundo 3: estruturas compostas
 

@@ -93,8 +93,8 @@ Lecionado pelo prof. Gustavo Guanabara e hospedado no site do Curso em Vídeo (v
 
 #### Repetições em Python (while)
 
-- Exercício Python #057 - [Validação de dados](https://github.com/lucas23455/Python/blob/main/Mundo%201/057.py)
-- Exercício Python #058 - [Jogo da adivinhação v2.0](https://github.com/lucas23455/Python/blob/main/Mundo%201/058.py)
+- Exercício Python #057 - [Validação de dados](https://github.com/lucas23455/Python/blob/main/Mundo%202/057.py)
+- Exercício Python #058 - [Jogo da adivinhação v2.0](https://github.com/lucas23455/Python/blob/main/Mundo%202/058.py)
 - Exercício Python #059 - [Criando um menu de opções](https://github.com/lucas23455/Python/blob/main/Mundo%201/059.py)
 - Exercício Python #060 - [Cálculo do fatorial](https://github.com/lucas23455/Python/blob/main/Mundo%201/060.py)
 - Exercício Python #061 - [Progressão aritmética v2.0](https://github.com/lucas23455/Python/blob/main/Mundo%201/061.py)

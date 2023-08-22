@@ -79,17 +79,17 @@ Lecionado pelo prof. Gustavo Guanabara e hospedado no site do Curso em Vídeo (v
 
 #### Repetições em Python (for)
 
-- Exercício Python #046 - [Contagem regressiva](https://github.com/lucas23455/Python/blob/main/Mundo%201/046.py)
-- Exercício Python #047 - [Contagem de pares](https://github.com/lucas23455/Python/blob/main/Mundo%201/047.py)
-- Exercício Python #048 - [Soma ímpares múltiplos de três](https://github.com/lucas23455/Python/blob/main/Mundo%201/048.py)
-- Exercício Python #049 - [Tabuada v2.0](https://github.com/lucas23455/Python/blob/main/Mundo%201/049.py)
-- Exercício Python #050 - [Soma dos pares](https://github.com/lucas23455/Python/blob/main/Mundo%201/050.py)
-- Exercício Python #051 - [Progressão Aritmética](https://github.com/lucas23455/Python/blob/main/Mundo%201/051.py)
-- Exercício Python #052 - [Números primos](https://github.com/lucas23455/Python/blob/main/Mundo%201/052.py)
-- Exercício Python #053 - [Detector de palíndromo](https://github.com/lucas23455/Python/blob/main/Mundo%201/053.py)
-- Exercício Python #054 - [Grupo da maioridade](https://github.com/lucas23455/Python/blob/main/Mundo%201/054.py)
-- Exercício Python #055 - [Maior e menor da sequência](https://github.com/lucas23455/Python/blob/main/Mundo%201/055.py)
-- Exercício Python #056 - [Analisador completo](https://github.com/lucas23455/Python/blob/main/Mundo%201/056.py)
+- Exercício Python #046 - [Contagem regressiva](https://github.com/lucas23455/Python/blob/main/Mundo%202/046.py)
+- Exercício Python #047 - [Contagem de pares](https://github.com/lucas23455/Python/blob/main/Mundo%202/047.py)
+- Exercício Python #048 - [Soma ímpares múltiplos de três](https://github.com/lucas23455/Python/blob/main/Mundo%202/048.py)
+- Exercício Python #049 - [Tabuada v2.0](https://github.com/lucas23455/Python/blob/main/Mundo%202/049.py)
+- Exercício Python #050 - [Soma dos pares](https://github.com/lucas23455/Python/blob/main/Mundo%202/050.py)
+- Exercício Python #051 - [Progressão Aritmética](https://github.com/lucas23455/Python/blob/main/Mundo%202/051.py)
+- Exercício Python #052 - [Números primos](https://github.com/lucas23455/Python/blob/main/Mundo%202/052.py)
+- Exercício Python #053 - [Detector de palíndromo](https://github.com/lucas23455/Python/blob/main/Mundo%202/053.py)
+- Exercício Python #054 - [Grupo da maioridade](https://github.com/lucas23455/Python/blob/main/Mundo%202/054.py)
+- Exercício Python #055 - [Maior e menor da sequência](https://github.com/lucas23455/Python/blob/main/Mundo%202/055.py)
+- Exercício Python #056 - [Analisador completo](https://github.com/lucas23455/Python/blob/main/Mundo%202/056.py)
 
 #### Repetições em Python (while)
 

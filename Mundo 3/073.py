@@ -6,14 +6,14 @@
 #em que posiçao na tabela está o time do gremio
 
 time=("botafogo","palmeiras","flamengo","fluminence","gremio","atletico-PR","bragantino","fortaleza","cuiabá","sao paulo","atletico-MG","cruzeiro","corinthians","internacional","goias","bahia","santos","vasco","santos","vasco","coritiba","america-MG")
-primeiros_colocados=time[:5]
+primeiros_colocados=time[0:5]
 print(f"os 5 primeiros colocados:{primeiros_colocados}")
 print("--------------------")
 ultimos_quatro_colocados=time[-4:]
 print(f"os ultimos 4 colocados:{ultimos_quatro_colocados}")
 print("---------------------")
 ordem_alfabetica=sorted(time)
-print(f"{ordem_alfabetica}")
+print(f"ordem alfabetica:{ordem_alfabetica}")
 print("---------------------")
-achar_posicao=time.index("gremio")
-print(f"a posicao gremio esta:{achar_posicao}")
+achar_posicao=time.index("gremio")+1
+print(f"a posicao gremio esta na posiçao:{achar_posicao}")

@@ -11,7 +11,7 @@ numeros_guardados=(
 while True:
     numero=int(input("digite um num entre 0 e 20:"))
 
-    if 0<= numero <=20:
+    if 0<= numero <=20: 
         #Ao digitar o numero especifico, ele procurará na posicao em que se encontra na tupla
         numero_mostrado=numeros_guardados[numero]
         print(f"voce digitou o numero:{numero_mostrado}")

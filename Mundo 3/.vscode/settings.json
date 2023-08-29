@@ -1,3 +1,9 @@
 {
-    "oneDarkPro.editorTheme": "VS Code"
+    "workbench.colorTheme": "super",
+    "editor.fontFamily": "Consolas, 'Courier New', monospace",
+    "editor.fontWeight": "600",
+    "editor.fontSize": 20,
+    "editor.codeActionsOnSave": null,
+    "editor.cursorBlinking": "expand"
+    
 }

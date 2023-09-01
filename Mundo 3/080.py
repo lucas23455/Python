@@ -1,14 +1,27 @@
-#Crie um programa onde o usuario possa digitar cinco valores numeros e cadastre-os em uma lista, ja na posicao correta de insercao(sem usar o sort())
+##Crie um programa onde o usuario possa digitar cinco valores numeros e cadastre-os em uma lista, ja na posicao correta de insercao(sem usar o sort())
 
-#No final , mostre a lista ordenada na tela
 
-valores = []
-cont=0
-for i in range(5):
-    valor=int(input(f"digite o {cont+1}° valor:"))
-    cont+=1
+lista = []
 
-    if valor not in valores:
-        valores.append(valor)
+for c in range(5):
+    n = int(input("Digite um valor:"))
+
+    if c == 0 or n >= lista[-1]:
+        lista.append(n)
     else:
-        print("esse valor ja foi adicionado!")    
+        pos = 0
+        while pos < len(lista):
+            if n <= lista[pos]:
+                lista.insert(pos, n)
+                break
+            pos += 1
+print("=" * 30)
+print(f"Os valores digitados em ordem foram {lista}")
+
+
+
+
+
+
+
+

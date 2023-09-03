@@ -24,7 +24,7 @@ for i,a in enumerate(ficha):
 while True:
     print("-"*35)
     opc=int(input("Mostre notas de qual aluno?(999 INTERROMPE):"))
-    if opc== 999:
+    if opc == 999:
         print("finalizando...")
         break
     if opc <=len(ficha)-1:

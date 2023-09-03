@@ -1,31 +1,35 @@
 #Crie um programa que leia nome e duas notas de varios alunos e guarde tudo em uma lista composta. No FINAL,mostre um boletim contendo a media de cada um e permita que o usuario possa mostrar as notas de cada aluno individualmente
 
-# Função para calcular a média das notas
-def calcular_media(notas):
-    return sum(notas) / len(notas)
+ficha=[]
 
-# Lista composta para armazenar os dados dos alunos
-alunos = []
-
-# Loop para coletar dados dos alunos
 while True:
-    nome = input("Digite o nome do aluno (ou 'sair' para encerrar): ")
-    if nome.lower() == 'sair':
+    nome=str(input("NOME:"))
+    nota1=float(input("NOTA1:"))
+    nota2=float(input("NOTA2:"))
+    media=(nota1+nota2)/2
+
+    ficha.append([nome,[nota1,nota2],media])
+
+    resp=str(input("quer continuar?[S/N]")).upper()
+
+    if resp =="N":
+        print("encerrando...")
         break
-    
-    nota1 = float(input("Digite a primeira nota do aluno: "))
-    nota2 = float(input("Digite a segunda nota do aluno: "))
-    
-    alunos.append([nome, [nota1, nota2]])
+print("-="*30)
+print(f'{"No.":<4}{"Nome":<10}{"Media":>8}')
+print("-"*26)
+for i,a in enumerate(ficha):
+    print(f"{i:<4}{a[0]:<10}{a[2]:>8.1f}")
 
-# Mostra as médias e permite exibir as notas individuais
-print("\nBoletim:")
-for aluno in alunos:
-    nome = aluno[0]
-    notas = aluno[1]
-    media = calcular_media(notas)
-    print(f"{nome}: Média = {media:.2f}")
+while True:
+    print("-"*35)
+    opc=int(input("Mostre notas de qual aluno?(999 INTERROMPE):"))
+    if opc== 999:
+        print("finalizando...")
+        break
+    if opc <=len(ficha)-1:
+        print(f"Notas de {ficha[opc][0]} sao {ficha[opc][1]}")
+print("volte sempre!!")        
 
-    mostrar_notas = input("Deseja ver as notas deste aluno? (s/n): ")
-    if mostrar_notas.lower() == 's':
-        print(f"Notas de {nome}: {notas}")
+
+

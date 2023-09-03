@@ -1,7 +1,10 @@
 #Crie um programa que crie uma matriz de dimensao 3x3 e preencha com valores lidos pelo teclado
 
 
-#criara uma matriz 3x3
+#matriz=[[0,0,0],[0,0,0],[0,0,0]]
+
+#criara uma matriz 3x3 com estrutura FOR
+#um jeito mais simplificado
 matriz=[[0,0,0]*3 for _ in range(3)]
 
 # o primeiro FOR é pra colocar os dados 

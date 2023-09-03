@@ -3,29 +3,39 @@
 #a soma dos valores da terceira coluna
 #o maior valor da segunda coluna
 
-# Inicializa uma matriz 3x4 com valores zero
-matriz = [[0] * 3 for _ in range(3)]
+#Crie um programa que crie uma matriz de dimensao 3x3 e preencha com valores lidos pelo teclado
 
-# Preenche a matriz com valores lidos pelo teclado
-for i in range(3):
-    for j in range(3):
-        matriz[i][j] = int(input(f"Digite o valor para a posição ({i}, {j}): "))
 
-# Mostra a matriz preenchida
-print("Matriz preenchida:")
-for linha in matriz:
-    for valor in linha:
-        print(f"[{valor}]", end=" ")
-    print()  # Pula para a próxima linha após cada linha da matriz
+#matriz=[[0,0,0],[0,0,0],[0,0,0]]
 
-# Calcula a soma de todos os valores pares digitados
-soma_pares = sum(valor for linha in matriz for valor in linha if valor % 2 == 0)
-print("Soma dos valores pares:", soma_pares)
+#criara uma matriz 3x3 com estrutura FOR
+#um jeito mais simplificado
+matriz=[[0,0,0]*3 for _ in range(3)]
+soma_par=0
 
-# Calcula a soma dos valores da terceira coluna
-soma_terceira_coluna = sum(matriz[i][2] for i in range(3))
-print("Soma dos valores da terceira coluna:", soma_terceira_coluna)
+soma_coluna=0
 
-# Encontra o maior valor da segunda coluna
-maior_segunda_coluna = max(matriz[i][1] for i in range(3))
-print("Maior valor da segunda coluna:", maior_segunda_coluna)
+# o primeiro FOR é pra colocar os dados 
+for linha in range(3):
+    for coluna in range(3):
+        matriz[linha][coluna]=int(input(f"digite um valor para [{linha},{coluna}]:"))
+
+
+# o segundo FOR é pra mostrar a estrutura do dado na tela
+print("="*40)
+for linha in range(3):
+    for coluna in range(3):
+       print(f"[{matriz[linha][coluna]:^5}]",end=" ")
+       if matriz [linha][coluna] %2 ==0:
+        soma_par+=matriz[linha][coluna]
+    print()
+print("="*40)
+
+print(f"A soma dos numeros pares na matriz:{soma_par}")
+
+for linha in range(0,3):
+    soma_coluna+=matriz[linha][2]
+print(f"A soma dos valores terceira coluna:{soma_coluna}")
+
+
+print(f"O maior da segunda linha :{max(matriz[1])}")             

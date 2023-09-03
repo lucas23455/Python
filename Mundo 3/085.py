@@ -9,6 +9,9 @@ for i in range(7):
         lista[0].append(valor)
     else:
         lista[1].append(valor)
+
+#ou lista[0].sort()
+#ou lista[1].sort()
 print("="*30)
 print(f"Todos os valores:{lista}") 
 print(f"Os valores pares:{sorted(lista[0])}")

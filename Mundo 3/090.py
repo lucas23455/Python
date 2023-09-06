@@ -1,20 +1,26 @@
 #Faça um programa que leia nome e media de um aluno, guardando tambem a situaçao em um dicionario. No final,mostre o conteudo da estrutura na tela
 
-
+#criando um dicionario vazio
 aluno_media={}
 
-nome=str(input("Nome:"))
-media=float(input("MEDIA:"))
+aluno_media["nome"]=str(input("Seu nome:"))
+
+aluno_media["media"]=float(input(f"A media do {aluno_media['nome']}:"))
 
 
-situaçao="Aprovado" if media>=6.0 else"Reprovado"
+if aluno_media["media"] >=7:
+    aluno_media["situacao"]= "aprovado"
 
-aluno_media["nome"]=nome
-aluno_media["media"]=media
-aluno_media["situaçao"]=situaçao
+elif 5<= aluno_media["media"] <7:
+    aluno_media["situacao"]= "recuperacao"
+
+else:
+    aluno_media["situacao"]= "reprovado"
 
 
-print("\ninformacoes do aluno:")
-print("Nome:",aluno_media["nome"])
-print("Media",aluno_media["media"])
-print("situacao:",aluno_media["situaçao"])
+print("="*30)
+print("informacoes do aluno:")
+print(aluno_media)
+
+for k,v in aluno_media.items():
+    print(f"{k}: {v}")

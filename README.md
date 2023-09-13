@@ -122,14 +122,14 @@ Lecionado pelo prof. Gustavo Guanabara e hospedado no site do Curso em Vídeo (v
 
 #### Listas
 
-- Exercício Python #078 - [Maior e menor valores na lista](https://github.com/guiemi-learning-center/curso-python-gustavo-guanabara/blob/master/mundo_3/aula_17/desafio_78.py)
-- Exercício Python #079 - [Valores únicos em uma lista](https://github.com/guiemi-learning-center/curso-python-gustavo-guanabara/blob/master/mundo_3/aula_17/desafio_79.py)
-- Exercício Python #080 - [Lista ordenada sem repetições](https://github.com/guiemi-learning-center/curso-python-gustavo-guanabara/blob/master/mundo_3/aula_17/desafio_80.py)
-- Exercício Python #080.1 - [Lista ordenada sem repetições](https://github.com/guiemi-learning-center/curso-python-gustavo-guanabara/blob/master/mundo_3/aula_17/desafio_80.1.py)
-- Exercício Python #081.2 - [Lista ordenada sem repetições](https://github.com/guiemi-learning-center/curso-python-gustavo-guanabara/blob/master/mundo_3/aula_17/desafio_80.2.py)
-- Exercício Python #081 - [Extraindo dados de uma lista](https://github.com/guiemi-learning-center/curso-python-gustavo-guanabara/blob/master/mundo_3/aula_17/desafio_81.py)
-- Exercício Python #082 - [Dividindo valores em várias listas](https://github.com/guiemi-learning-center/curso-python-gustavo-guanabara/blob/master/mundo_3/aula_17/desafio_82.py)
-- Exercício Python #083 - [Validando expressões matemáticas](https://github.com/guiemi-learning-center/curso-python-gustavo-guanabara/blob/master/mundo_3/aula_17/desafio_83.py)
+- Exercício Python #078 - [Maior e menor valores na lista](https://github.com/lucas23455/Python/blob/main/Mundo%203/078.py)
+- Exercício Python #079 - [Valores únicos em uma lista](https://github.com/lucas23455/Python/blob/main/Mundo%203/079.py)
+- Exercício Python #080 - [Lista ordenada sem repetições](https://github.com/lucas23455/Python/blob/main/Mundo%203/080.py)
+- Exercício Python #080.1 - [Lista ordenada sem repetições](https://github.com/lucas23455/Python/blob/main/Mundo%203/081.py)
+- Exercício Python #081.2 - [Lista ordenada sem repetições](https://github.com/lucas23455/Python/blob/main/Mundo%203/082.py)
+- Exercício Python #081 - [Extraindo dados de uma lista](https://github.com/lucas23455/Python/blob/main/Mundo%203/083.py)
+- Exercício Python #082 - [Dividindo valores em várias listas](https://github.com/lucas23455/Python/blob/main/Mundo%203/084.py)
+- Exercício Python #083 - [Validando expressões matemáticas](https://github.com/lucas23455/Python/blob/main/Mundo%203/085.py)
 
 #### Listas (Parte 2)
 

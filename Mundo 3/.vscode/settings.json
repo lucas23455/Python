@@ -4,6 +4,10 @@
     "editor.fontWeight": "600",
     "editor.fontSize": 20,
     "editor.codeActionsOnSave": null,
-    "editor.cursorBlinking": "expand"
+    "editor.cursorBlinking": "expand",
+    "[python]": {
+        "editor.defaultFormatter": "ms-python.autopep8"
+    },
+    "python.formatting.provider": "none"
     
 }

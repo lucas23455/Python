@@ -174,9 +174,8 @@ Lecionado pelo prof. Gustavo Guanabara e hospedado no site do Curso em Vídeo (v
 
 #### Tratamento de erros em Python
 
-- Exercício Python #113 - Funções aprofundadas em Python
-- Exercício Python #114 - Site está acessível?
-- Exercício Python #115a - Criando um menu em Python
-- Exercício Python #115b - Criando um menu em Python
-- Exercício Python #115c - Finalizando o projeto
+- Exercício Python #113 - [Funções aprofundadas em Python](https://github.com/lucas23455/Python/blob/main/Mundo%203/113.py)
+- Exercício Python #114 - [Site está acessível?](https://github.com/lucas23455/Python/blob/main/Mundo%203/114.py)
+- Exercício Python #115a - [Criando um menu em Python](https://github.com/lucas23455/Python/tree/main/Mundo%203/ex115)
+
 

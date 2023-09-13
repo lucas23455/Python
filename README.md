@@ -179,8 +179,4 @@ Lecionado pelo prof. Gustavo Guanabara e hospedado no site do Curso em Vídeo (v
 - Exercício Python #115a - Criando um menu em Python
 - Exercício Python #115b - Criando um menu em Python
 - Exercício Python #115c - Finalizando o projeto
-- Exercício Python #069 - [Análise de dados do grupo](https://github.com/lucas23455/Python/blob/main/Mundo%201/069.py)
-- Exercício Python #070 - [Estatística de produtos](https://github.com/lucas23455/Python/blob/main/Mundo%201/070.py)
-- Exercício Python #071.2 - [Simulador de caixa eletrônico](https://github.com/lucas23455/Python/blob/main/Mundo%201/071.py)
-- Exercício Python #071.2.1 - [Simulador de caixa eletrônico](https://github.com/lucas23455/Python/blob/main/Mundo%201/072.py)
 

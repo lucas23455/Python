@@ -113,12 +113,12 @@ Lecionado pelo prof. Gustavo Guanabara e hospedado no site do Curso em Vídeo (v
 
 #### Tuplas
 
-- Exercício Python #072 - [Número por extenso](https://github.com/guiemi-learning-center/curso-python-gustavo-guanabara/blob/master/mundo_3/aula_16/desafio_72.py)
-- Exercício Python #073 - [Tuplas com times de futebol](https://github.com/guiemi-learning-center/curso-python-gustavo-guanabara/blob/master/mundo_3/aula_16/desafio_73.py)
-- Exercício Python #074 - [Maior e menor valores em tupla](https://github.com/guiemi-learning-center/curso-python-gustavo-guanabara/blob/master/mundo_3/aula_16/desafio_74.py)
-- Exercício Python #075 - [Análise de dados em uma tupla](https://github.com/guiemi-learning-center/curso-python-gustavo-guanabara/blob/master/mundo_3/aula_16/desafio_75.py)
-- Exercício Python #076 - [Lista de preços com tupla](https://github.com/guiemi-learning-center/curso-python-gustavo-guanabara/blob/master/mundo_3/aula_16/desafio_76.py)
-- Exercício Python #077 - [Contando vogais em tupla](https://github.com/guiemi-learning-center/curso-python-gustavo-guanabara/blob/master/mundo_3/aula_16/desafio_77.py)
+- Exercício Python #072 - [Número por extenso](https://github.com/lucas23455/Python/blob/main/Mundo%203/072.py)
+- Exercício Python #073 - [Tuplas com times de futebol](https://github.com/lucas23455/Python/blob/main/Mundo%203/073.py)
+- Exercício Python #074 - [Maior e menor valores em tupla](https://github.com/lucas23455/Python/blob/main/Mundo%203/074.py)
+- Exercício Python #075 - [Análise de dados em uma tupla](https://github.com/lucas23455/Python/blob/main/Mundo%203/075.py)
+- Exercício Python #076 - [Lista de preços com tupla](https://github.com/lucas23455/Python/blob/main/Mundo%203/076.py)
+- Exercício Python #077 - [Contando vogais em tupla](https://github.com/lucas23455/Python/blob/main/Mundo%203/077.py)
 
 #### Listas
 

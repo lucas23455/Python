@@ -5,7 +5,7 @@ import urllib.request
 
 
 try:
-   site=urllib.request.URLopener("http://www.pudim.com.br") 
+   site=urllib.request.URLopener("https://www.youtube.com/")
 except urllib.error.URLErro:
     print("deu erro!! o site nn ta acessivel")   
 else:

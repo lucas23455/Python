@@ -113,70 +113,69 @@ Lecionado pelo prof. Gustavo Guanabara e hospedado no site do Curso em Vídeo (v
 
 #### Tuplas
 
-- Exercício Python #072 - [Número por extenso](https://github.com/guiemi-learning-center/curso-python-gustavo-guanabara/blob/master/mundo_3/aula_16/desafio_72.py)
-- Exercício Python #073 - [Tuplas com times de futebol](https://github.com/guiemi-learning-center/curso-python-gustavo-guanabara/blob/master/mundo_3/aula_16/desafio_73.py)
-- Exercício Python #074 - [Maior e menor valores em tupla](https://github.com/guiemi-learning-center/curso-python-gustavo-guanabara/blob/master/mundo_3/aula_16/desafio_74.py)
-- Exercício Python #075 - [Análise de dados em uma tupla](https://github.com/guiemi-learning-center/curso-python-gustavo-guanabara/blob/master/mundo_3/aula_16/desafio_75.py)
-- Exercício Python #076 - [Lista de preços com tupla](https://github.com/guiemi-learning-center/curso-python-gustavo-guanabara/blob/master/mundo_3/aula_16/desafio_76.py)
-- Exercício Python #077 - [Contando vogais em tupla](https://github.com/guiemi-learning-center/curso-python-gustavo-guanabara/blob/master/mundo_3/aula_16/desafio_77.py)
+- Exercício Python #072 - [Número por extenso](https://github.com/lucas23455/Python/blob/main/Mundo%203/072.py)
+- Exercício Python #073 - [Tuplas com times de futebol](https://github.com/lucas23455/Python/blob/main/Mundo%203/073.py)
+- Exercício Python #074 - [Maior e menor valores em tupla](https://github.com/lucas23455/Python/blob/main/Mundo%203/074.py)
+- Exercício Python #075 - [Análise de dados em uma tupla](https://github.com/lucas23455/Python/blob/main/Mundo%203/075.py)
+- Exercício Python #076 - [Lista de preços com tupla](https://github.com/lucas23455/Python/blob/main/Mundo%203/076.py)
+- Exercício Python #077 - [Contando vogais em tupla](https://github.com/lucas23455/Python/blob/main/Mundo%203/077.py)
 
 #### Listas
 
-- Exercício Python #078 - [Maior e menor valores na lista](https://github.com/guiemi-learning-center/curso-python-gustavo-guanabara/blob/master/mundo_3/aula_17/desafio_78.py)
-- Exercício Python #079 - [Valores únicos em uma lista](https://github.com/guiemi-learning-center/curso-python-gustavo-guanabara/blob/master/mundo_3/aula_17/desafio_79.py)
-- Exercício Python #080 - [Lista ordenada sem repetições](https://github.com/guiemi-learning-center/curso-python-gustavo-guanabara/blob/master/mundo_3/aula_17/desafio_80.py)
-- Exercício Python #080.1 - [Lista ordenada sem repetições](https://github.com/guiemi-learning-center/curso-python-gustavo-guanabara/blob/master/mundo_3/aula_17/desafio_80.1.py)
-- Exercício Python #081.2 - [Lista ordenada sem repetições](https://github.com/guiemi-learning-center/curso-python-gustavo-guanabara/blob/master/mundo_3/aula_17/desafio_80.2.py)
-- Exercício Python #081 - [Extraindo dados de uma lista](https://github.com/guiemi-learning-center/curso-python-gustavo-guanabara/blob/master/mundo_3/aula_17/desafio_81.py)
-- Exercício Python #082 - [Dividindo valores em várias listas](https://github.com/guiemi-learning-center/curso-python-gustavo-guanabara/blob/master/mundo_3/aula_17/desafio_82.py)
-- Exercício Python #083 - [Validando expressões matemáticas](https://github.com/guiemi-learning-center/curso-python-gustavo-guanabara/blob/master/mundo_3/aula_17/desafio_83.py)
+- Exercício Python #078 - [Maior e menor valores na lista](https://github.com/lucas23455/Python/blob/main/Mundo%203/078.py)
+- Exercício Python #079 - [Valores únicos em uma lista](https://github.com/lucas23455/Python/blob/main/Mundo%203/079.py)
+- Exercício Python #080 - [Lista ordenada sem repetições](https://github.com/lucas23455/Python/blob/main/Mundo%203/080.py)
+- Exercício Python #080.1 - [Lista ordenada sem repetições](https://github.com/lucas23455/Python/blob/main/Mundo%203/081.py)
+- Exercício Python #081.2 - [Lista ordenada sem repetições](https://github.com/lucas23455/Python/blob/main/Mundo%203/082.py)
+- Exercício Python #081 - [Extraindo dados de uma lista](https://github.com/lucas23455/Python/blob/main/Mundo%203/083.py)
+- Exercício Python #082 - [Dividindo valores em várias listas](https://github.com/lucas23455/Python/blob/main/Mundo%203/084.py)
+- Exercício Python #083 - [Validando expressões matemáticas](https://github.com/lucas23455/Python/blob/main/Mundo%203/085.py)
 
 #### Listas (Parte 2)
 
-- Exercício Python #084 - [Lista composta e análise de dados](https://github.com/guiemi-learning-center/curso-python-gustavo-guanabara/blob/master/mundo_3/aula_18/desafio_84.py)
-- Exercício Python #085 - [Listas com pares e ímpares](https://github.com/guiemi-learning-center/curso-python-gustavo-guanabara/blob/master/mundo_3/aula_18/desafio_85.py)
-- Exercício Python #086 - [Matrix em Python](https://github.com/guiemi-learning-center/curso-python-gustavo-guanabara/blob/master/mundo_3/aula_18/desafio_86.py)
-- Exercício Python #087 - [Mais sobre matriz em Python](https://github.com/guiemi-learning-center/curso-python-gustavo-guanabara/blob/master/mundo_3/aula_18/desafio_87.py)
-- Exercício Python #088 - [Palpites para a Mega-Sena](https://github.com/guiemi-learning-center/curso-python-gustavo-guanabara/blob/master/mundo_3/aula_18/desafio_88.py)
-- Exercício Python #089 - [Boletim com listas compostas](https://github.com/guiemi-learning-center/curso-python-gustavo-guanabara/blob/master/mundo_3/aula_18/desafio_89.py)
+- Exercício Python #084 - [Lista composta e análise de dados](https://github.com/lucas23455/Python/blob/main/Mundo%203/084.py)
+- Exercício Python #085 - [Listas com pares e ímpares](https://github.com/lucas23455/Python/blob/main/Mundo%203/085.py)
+- Exercício Python #086 - [Matrix em Python](https://github.com/lucas23455/Python/blob/main/Mundo%203/086.py)
+- Exercício Python #087 - [Mais sobre matriz em Python](https://github.com/lucas23455/Python/blob/main/Mundo%203/087.py)
+- Exercício Python #088 - [Palpites para a Mega-Sena](https://github.com/lucas23455/Python/blob/main/Mundo%203/088.py)
+- Exercício Python #089 - [Boletim com listas compostas](https://github.com/lucas23455/Python/blob/main/Mundo%203/089.py)
 
 #### Dicionários
 
-- Exercício Python #090 - [Dicionário em Python](https://github.com/guiemi-learning-center/curso-python-gustavo-guanabara/blob/master/mundo_3/aula_19/desafio_90.py)
-- Exercício Python #091 - [Jogo de dados em Python](https://github.com/guiemi-learning-center/curso-python-gustavo-guanabara/blob/master/mundo_3/aula_19/desafio_91.py)
-- Exercício Python #092 - [Cadastro de trabalhador em Python](https://github.com/guiemi-learning-center/curso-python-gustavo-guanabara/blob/master/mundo_3/aula_19/desafio_92.py)
-- Exercício Python #093 - [Cadastro de jogador de futebol](https://github.com/guiemi-learning-center/curso-python-gustavo-guanabara/blob/master/mundo_3/aula_19/desafio_93.py)
-- Exercício Python #094 - [Unindo dicionários e listas](https://github.com/guiemi-learning-center/curso-python-gustavo-guanabara/blob/master/mundo_3/aula_19/desafio_94.py)
-- Exercício Python #095 - [Aprimorando dicionários](https://github.com/guiemi-learning-center/curso-python-gustavo-guanabara/blob/master/mundo_3/aula_19/desafio_95.py)
+- Exercício Python #090 - [Dicionário em Python](https://github.com/lucas23455/Python/blob/main/Mundo%203/090.py)
+- Exercício Python #091 - [Jogo de dados em Python](https://github.com/lucas23455/Python/blob/main/Mundo%203/091.py)
+- Exercício Python #092 - [Cadastro de trabalhador em Python](https://github.com/lucas23455/Python/blob/main/Mundo%203/092.py)
+- Exercício Python #093 - [Cadastro de jogador de futebol](https://github.com/lucas23455/Python/blob/main/Mundo%203/093.py)
+- Exercício Python #094 - [Unindo dicionários e listas](https://github.com/lucas23455/Python/blob/main/Mundo%203/094.py)
+- Exercício Python #095 - [Aprimorando dicionários](https://github.com/lucas23455/Python/blob/main/Mundo%203/095.py)
 
 #### Funções
 
-- Exercício Python #096 - [Função que calcula área](https://github.com/guiemi-learning-center/curso-python-gustavo-guanabara/blob/master/mundo_3/aula_20/desafio_96.py)
-- Exercício Python #097 - [Um print especial](https://github.com/guiemi-learning-center/curso-python-gustavo-guanabara/blob/master/mundo_3/aula_20/desafio_97.py)
-- Exercício Python #098 - [Função de contador](https://github.com/guiemi-learning-center/curso-python-gustavo-guanabara/blob/master/mundo_3/aula_20/desafio_98.py)
-- Exercício Python #099 - [Função que descobre o maior](https://github.com/guiemi-learning-center/curso-python-gustavo-guanabara/blob/master/mundo_3/aula_20/desafio_99.py)
-- Exercício Python #100 - [Funções para sortear e somar](https://github.com/guiemi-learning-center/curso-python-gustavo-guanabara/blob/master/mundo_3/aula_20/desafio_100.py)
-- Exercício Python #101 - [Funções para votação](https://github.com/guiemi-learning-center/curso-python-gustavo-guanabara/blob/master/mundo_3/aula_21/desafio_101.py)
-- Exercício Python #102 - [Função para fatorial](https://github.com/guiemi-learning-center/curso-python-gustavo-guanabara/blob/master/mundo_3/aula_21/desafio_102.py)
-- Exercício Python #103 - [Ficha do jogador](https://github.com/guiemi-learning-center/curso-python-gustavo-guanabara/blob/master/mundo_3/aula_21/desafio_103.py)
-- Exercício Python #104 - [Validando entrada de dados em Python](https://github.com/guiemi-learning-center/curso-python-gustavo-guanabara/blob/master/mundo_3/aula_21/desafio_104.py)
-- Exercício Python #105 - [Analisando e gerando dicionários](https://github.com/guiemi-learning-center/curso-python-gustavo-guanabara/blob/master/mundo_3/aula_21/desafio_105.py)
-- Exercício Python #106 - [Sistema interativo de ajuda em Python](https://github.com/guiemi-learning-center/curso-python-gustavo-guanabara/blob/master/mundo_3/aula_21/desafio_106.py)
+- Exercício Python #096 - [Função que calcula área](https://github.com/lucas23455/Python/blob/main/Mundo%203/096.py)
+- Exercício Python #097 - [Um print especial](https://github.com/lucas23455/Python/blob/main/Mundo%203/097.py)
+- Exercício Python #098 - [Função de contador](https://github.com/lucas23455/Python/blob/main/Mundo%203/098.py)
+- Exercício Python #099 - [Função que descobre o maior](https://github.com/lucas23455/Python/blob/main/Mundo%203/099.py)
+- Exercício Python #100 - [Funções para sortear e somar](https://github.com/lucas23455/Python/blob/main/Mundo%203/100.py)
+- Exercício Python #101 - [Funções para votação](https://github.com/lucas23455/Python/blob/main/Mundo%203/101.py)
+- Exercício Python #102 - [Função para fatorial](https://github.com/lucas23455/Python/blob/main/Mundo%203/102.py)
+- Exercício Python #103 - [Ficha do jogador](https://github.com/lucas23455/Python/blob/main/Mundo%203/103.py)
+- Exercício Python #104 - [Validando entrada de dados em Python](https://github.com/lucas23455/Python/blob/main/Mundo%203/104.py)
+- Exercício Python #105 - [Analisando e gerando dicionários](https://github.com/lucas23455/Python/blob/main/Mundo%203/105.py)
+- Exercício Python #106 - [Sistema interativo de ajuda em Python](https://github.com/lucas23455/Python/blob/main/Mundo%203/106.py)
 
 #### Modularização em Python
 
-- Exercício Python #107 - [Exercitando módulos em Python](https://github.com/divertimentos/Curso-Python-Gustavo-Guanabara/blob/master/mundo_3/aula_22/divertimentos/desafio_107/desafio_107.py)
-- Exercício Python #108 - [Formatando moedas em Python](https://github.com/divertimentos/Curso-Python-Gustavo-Guanabara/tree/master/mundo_3/aula_22/divertimentos/desafio_108/desafio_108.py)
-- Exercício Python #109 - [Formatando moedas em Python](https://github.com/divertimentos/Curso-Python-Gustavo-Guanabara/tree/master/mundo_3/aula_22/divertimentos/desafio_109/desafio_109.py)
-- Exercício Python #110 - [Reduzindo ainda mais seu programa](https://github.com/divertimentos/Curso-Python-Gustavo-Guanabara/tree/master/mundo_3/aula_22/divertimentos/desafio_110/desafio_110.py)
-- Exercício Python #111 - [Transformando módulos em pacotes](https://github.com/divertimentos/Curso-Python-Gustavo-Guanabara/tree/master/mundo_3/aula_22/divertimentos/desafio_111/desafio_111.py)
-- Exercício Python #112 - [Entrada de dados monetários](https://github.com/divertimentos/Curso-Python-Gustavo-Guanabara/tree/master/mundo_3/aula_22/divertimentos/desafio_112/desafio_112.py)
+- Exercício Python #107 - [Exercitando módulos em Python](https://github.com/lucas23455/Python/tree/main/Mundo%203/ex107)
+- Exercício Python #108 - [Formatando moedas em Python](https://github.com/lucas23455/Python/tree/main/Mundo%203/ex108)
+- Exercício Python #109 - [Formatando moedas em Python](https://github.com/lucas23455/Python/tree/main/Mundo%203/ex109)
+- Exercício Python #110 - [Reduzindo ainda mais seu programa](https://github.com/lucas23455/Python/tree/main/Mundo%203/ex110)
+- Exercício Python #111 - [Transformando módulos em pacotes](https://github.com/lucas23455/Python/tree/main/Mundo%203/ex111)
+- Exercício Python #112 - [Entrada de dados monetários](https://github.com/lucas23455/Python/tree/main/Mundo%203/ex112)
 
 #### Tratamento de erros em Python
 
-- Exercício Python #113 - Funções aprofundadas em Python
-- Exercício Python #114 - Site está acessível?
-- Exercício Python #115a - Criando um menu em Python
-- Exercício Python #115b - Criando um menu em Python
-- Exercício Python #115c - Finalizando o projeto
+- Exercício Python #113 - [Funções aprofundadas em Python](https://github.com/lucas23455/Python/blob/main/Mundo%203/113.py)
+- Exercício Python #114 - [Site está acessível?](https://github.com/lucas23455/Python/blob/main/Mundo%203/114.py)
+- Exercício Python #115a - [Criando um menu em Python](https://github.com/lucas23455/Python/tree/main/Mundo%203/ex115)
+
 
